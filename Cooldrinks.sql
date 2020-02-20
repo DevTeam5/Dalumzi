@@ -1,0 +1,14 @@
+Cooldrinks,Quantity,Price
+Coca-cola,10,R90.99
+Sprite,15,R101.99
+Fanta,25,R100.50
+Twizza,20,R140.00
+Refresh,40,R120.00
+Powerade,30,R129.50
+Stoney,50,R98.00
+NULL,NULL,NULL
+NULL,NULL,NULL
+Spaletta,NULL,NULL
+Pepsi,NULL,NULL
+Spaletta,NULL,NULL
+Pepsi,NULL,NULL
